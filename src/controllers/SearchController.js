@@ -1,4 +1,4 @@
-const Dev = require('../models/Dev');
+/*const Dev = require('../models/Dev');
 const parseStringAsArray = require('../utils/parseStringAsArray');
 
 module.exports = {
@@ -24,4 +24,4 @@ module.exports = {
 
         return response.json({ devs });
     }
-}
+}*/

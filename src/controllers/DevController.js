@@ -1,5 +1,5 @@
-const axios = require('axios');
-const Dev = require('../models/Dev');
+/*const axios = require('axios');
+//const Dev = require('../models/Dev');
 const parseStringAsArray = require('../utils/parseStringAsArray');
 
 module.exports = {
@@ -47,4 +47,4 @@ module.exports = {
 
         return response.json({ message: "Deletado??" });
     }
-};
+};*/
